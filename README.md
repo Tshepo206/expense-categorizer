@@ -44,3 +44,6 @@ Pull requests are welcome! If you’d like to add new features (e.g. charts, AI 
 Show your support:
 
 If you like this project, please star the repo ⭐ on GitHub — it helps others discover it!
+## Demo
+
+![App demo](src/images/hero.png)
