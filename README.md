@@ -1,3 +1,15 @@
+# Expense Categorizer  
+
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
+
+![GitHub stars](https://img.shields.io/github/stars/Tshepo206/expense-categorizer?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/Tshepo206/expense-categorizer)
+![Repo Size](https://img.shields.io/github/repo-size/Tshepo206/expense-categorizer)
+![Issues](https://img.shields.io/github/issues/Tshepo206/expense-categorizer)
+![Pull Requests](https://img.shields.io/github/issues-pr/Tshepo206/expense-categorizer)
+
 This project is a Streamlit-based expense categorizer that allows users to upload a CSV of transactions and automatically assign them to categories such as Travel, Food, Utilities, Business Expenses, etc.
 
 It is part of my Chartered Accountant + AI portfolio, where I combine financial expertise with Python, data analysis, and AI tools to build practical finance automation apps. The goal of this project is to showcase how accounting knowledge can be translated into real-world software solutions that streamline decision-making and reporting.
@@ -19,7 +31,7 @@ Create and activate a virtual environment:
 
 python3 -m venv .venv source .venv/bin/activate # Mac/Linux .venv\Scripts\activate # Windows
 
-Intsall dependencies:
+Install dependencies:
 
 pip install -r requirements.txt
 
